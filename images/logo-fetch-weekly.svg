@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 60" width="300" height="60" role="img" aria-label="Fetch Weekly">
+  <g stroke="#7fb414" stroke-width="4" stroke-linecap="round">
+    <path d="M3 20H16"/>
+    <path d="M0 31H14"/>
+    <path d="M3 42H16"/>
+  </g>
+  <circle cx="44" cy="30" r="25" fill="#9ccc1f"/>
+  <g fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round">
+    <path d="M27 12c11 9 11 27 0 36"/>
+    <path d="M61 12c-11 9-11 27 0 36"/>
+  </g>
+  <text x="80" y="43" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#7fb414" textLength="116" lengthAdjust="spacingAndGlyphs">FETCH</text>
+  <text x="204" y="43" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-style="italic" fill="#7fb414" textLength="92" lengthAdjust="spacingAndGlyphs">weekly</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 60" width="300" height="60" role="img" aria-label="Paws and Effect">
+  <text x="2" y="43" font-family="Verdana, Tahoma, Arial, sans-serif" font-size="31" font-weight="700" fill="#f08a24" textLength="94" lengthAdjust="spacingAndGlyphs">PAWS</text>
+  <g fill="#f08a24">
+    <ellipse cx="130" cy="38" rx="15" ry="12"/>
+    <ellipse cx="111.5" cy="26" rx="5" ry="7" transform="rotate(-25 111.5 26)"/>
+    <ellipse cx="122.5" cy="16.5" rx="5" ry="7.2" transform="rotate(-8 122.5 16.5)"/>
+    <ellipse cx="137.5" cy="16.5" rx="5" ry="7.2" transform="rotate(8 137.5 16.5)"/>
+    <ellipse cx="148.5" cy="26" rx="5" ry="7" transform="rotate(25 148.5 26)"/>
+  </g>
+  <text x="162" y="43" font-family="Verdana, Tahoma, Arial, sans-serif" font-size="31" font-weight="700" fill="#f08a24" textLength="134" lengthAdjust="spacingAndGlyphs">EFFECT</text>
+</svg>

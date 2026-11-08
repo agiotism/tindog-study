@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 60" width="290" height="60" role="img" aria-label="Wagazine">
+  <text x="2" y="46" font-family="'Arial Black', Impact, Arial, sans-serif" font-size="36" font-weight="900" fill="#2f8fff" textLength="226" lengthAdjust="spacingAndGlyphs">WAGAZINE</text>
+  <g fill="none" stroke="#2f8fff" stroke-linecap="round">
+    <path d="M234 44C252 42 258 30 254 14" stroke-width="10"/>
+    <path d="M266 8c5 5 7 11 7 18" stroke-width="4"/>
+    <path d="M277 3c7 8 10 16 10 26" stroke-width="4"/>
+  </g>
+</svg>
